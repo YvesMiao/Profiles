@@ -1,4 +1,4 @@
-v # > Apple News
+# > Apple News
 DOMAIN,gateway.icloud.com
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX,apple.news
